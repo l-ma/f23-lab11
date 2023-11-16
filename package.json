@@ -1,0 +1,11 @@
+{
+  "name": "f23-lab11",
+  "version": "1.0.0",
+  "description": "Repo link: https://github.com/CMU-17-214/f23-lab11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
