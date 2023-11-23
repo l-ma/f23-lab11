@@ -59,5 +59,3 @@ npm run compile
 npm run serve
 ```
 to start the server.
-
-TO BE DELETED
